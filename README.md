@@ -5,6 +5,8 @@
 > Haoyang Li, Siyu Zhou, Liang Wang and Guodong Long. <br>
 > Shanghai University, University of Technology Sydney <br>
 
+**Supplementary Material**: [https://github.com/JREion/M.A.O/releases/tag/docs](https://github.com/JREion/M.A.O/releases/tag/docs)
+
 <hr />
 
 ### 🔥 News
