@@ -5,13 +5,17 @@
 > Haoyang Li, Siyu Zhou, Liang Wang and Guodong Long. <br>
 > Shanghai University, University of Technology Sydney <br>
 
-**Supplementary Material**: [https://github.com/JREion/M.A.O/releases/tag/docs](https://github.com/JREion/M.A.O/releases/tag/docs)
+**📦 Supplementary Material**: [https://github.com/JREion/M.A.O/releases/tag/docs](https://github.com/JREion/M.A.O/releases/tag/docs)
+
+**📰 Full Text**: [https://arxiv.org/abs/2503.18160](https://arxiv.org/abs/2503.18160)
 
 <hr />
 
 ### 🔥 News
 
 - **NOTE**: We are preparing our code repository (mainly rewriting comments to improve readability). We hope to release code in April.
+
+- (25 Mar. 2025) Full text and supplementary material are available at [Arxiv](https://arxiv.org/abs/2503.18160).
 
 - (21 Mar. 2025) Our paper is accepted by ICME 2025!
 
