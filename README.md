@@ -15,6 +15,8 @@
 
 - **NOTE**: We are preparing our code repository (mainly rewriting comments to improve readability). We hope to release code in April.
 
+- (15 Apr. 2025) The code of PromptSRC+M.A.O is released.
+
 - (25 Mar. 2025) Full text and supplementary material are available at [Arxiv](https://arxiv.org/abs/2503.18160).
 
 - (21 Mar. 2025) Our paper is accepted by ICME 2025!
