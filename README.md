@@ -15,6 +15,8 @@
 
 - **NOTE**: We are preparing our code repository (mainly rewriting comments to improve readability). We hope to release code in April.
 
+- (24 Jun. 2025) We upload the poster of M.A.O.
+
 - (15 Apr. 2025) The code of PromptSRC+M.A.O is released.
 
 - (25 Mar. 2025) Full text and supplementary material are available at [Arxiv](https://arxiv.org/abs/2503.18160).
@@ -59,6 +61,10 @@ We attribute this to MAO's **Alterable Regularization** design, which mitigates 
 <figure>
 <img src="docs/MAO_Experiment_2.png" alt="fail" width="100%"">
 </figure>
+
+
+## Poster
+<div style="text-align:center"><img src="docs/Poster_of_M.A.O.png" width="100%" ></div>
 
 
 ## Citation
