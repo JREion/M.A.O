@@ -72,12 +72,13 @@ We attribute this to MAO's **Alterable Regularization** design, which mitigates 
 If you find our paper or repo helpful for your research, please consider citing our paper and giving this repo a star⭐. Thank you!
 
 ```
-@article{li2025mao,
-  title={MAO: Efficient Model-Agnostic Optimization of Prompt Tuning for Vision-Language Models},
+@INPROCEEDINGS{li2025mao,
   author={Li, Haoyang and Zhou, Siyu and Wang, Liang and Long, Guodong},
-  journal={arXiv preprint arXiv:2503.18160},
-  year={2025}
-}
+  booktitle={2025 IEEE International Conference on Multimedia and Expo (ICME)}, 
+  title={MAO: Efficient Model-Agnostic Optimization of Prompt Tuning for Vision-Language Models}, 
+  year={2025},
+  pages={1-6},
+  doi={10.1109/ICME59968.2025.11209968}}
 ```
 
 
